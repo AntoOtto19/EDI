@@ -1,2 +1,6 @@
 # EDI
 estudiante
+
+proyecto
+
+editar
