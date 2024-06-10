@@ -1,6 +1,3 @@
 # EDI
-estudiante
 
-proyecto
-
-editar
+nanananaa e3xxuiecgit4
